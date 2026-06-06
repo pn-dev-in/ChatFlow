@@ -1,0 +1,80 @@
+# Dependencies
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+# Build
+dist/
+.next/
+out/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+.env.development.local
+.env.production.local
+.env.test.local
+backend/.env
+frontend/.env.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Prisma
+backend/prisma/*.db
+prisma/dev.db
+prisma/dev.db-journal
+
+# Uploads (temp)
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Docker
+*.pid
+
+# Vercel
+.vercel/
+
+# Render
+.render/
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Cache
+.cache/
+.parcel-cache/
+.turbo/
+
+# Uploads (optional)
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Generated files
+*.seed
+
+# Misc
+*.swp
+*.swo

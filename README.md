@@ -11,7 +11,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-20-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-black)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🌐 Live Demo
 
@@ -65,18 +64,6 @@ Inspired by leading communication platforms such as WhatsApp, Telegram, Discord,
 * Document sharing
 * Cloudinary integration
 * Secure media storage
-
----
-
-## 🤖 AI Assistant
-
-Integrated AI features include:
-
-* Smart replies
-* Conversation summarization
-* Translation assistance
-* Grammar correction
-* AI-powered conversations
 
 ---
 
